@@ -173,8 +173,6 @@ Cache:    Redis (Upstash)               → Cloud
 
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
