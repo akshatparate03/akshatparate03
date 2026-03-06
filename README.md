@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Akshat%20Parate&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Builder&descAlignY=58&descSize=22&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Akshat%20Parate&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Builder&descAlignY=58&descSize=22&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/akshatparate03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshat+%F0%9F%91%8B;Full+Stack+Java+%2B+React+Developer;Building+Zonnecto+%F0%9F%9A%80;DSA+%26+Competitive+Programmer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshat+%F0%9F%91%8B;Java+Full+Stack+Developer;Building+Cartvix+%F0%9F%9B%92;DSA+%26+Competitive+Programmer;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -29,23 +29,23 @@
 public class Akshat extends Developer {
 
     String name        = "Akshat Parate";
-    String role        = "Full Stack Developer";
+    String role        = "Java Full Stack Developer";
     String location    = "India 🇮🇳";
     String email       = "akshatparate@gmail.com";
 
     String[] currentlyBuilding = {
-        "Zonnecto — Anonymous Chat Platform 🚀",
-        "FastAPI + AI-powered web apps 🤖",
+        "Cartvix — E-Commerce + AI + Virtual Try-On 🛒",
+        "Spring Boot powered backend services ⚙️",
     };
 
     String[] learning = {
         "Advanced DSA & System Design",
         "LLM Integrations & RAG",
-        "Backend Engineering (FastAPI)",
+        "Backend Engineering (Spring Boot)",
     };
 
-    String superpower  = "Turning complex problems into clean code ⚡";
-    String funFact     = "I debug for hours without noticing time passing 🕐";
+    String superpower  = "Complex problems → clean code ⚡";
+    String funFact     = "Debug mode: time doesn't exist 🕐";
 }
 ```
 
@@ -79,7 +79,7 @@ public class Akshat extends Developer {
 | 💬 Real-Time Messaging | WebSocket + STOMP Protocol |
 | 👥 Friend System | Persistent FRIEND_CHAT Rooms |
 | 🛡️ Moderation | Auto-ban, Reports, Admin Panel |
-| ⭐ Premium System | Razorpay Integration |
+| ⭐ Premium System | Fake Payment System (Demo) |
 | 🔐 Auth | JWT + BCrypt + OTP Verification |
 
 ```
@@ -177,12 +177,12 @@ Cache:    Redis (Upstash)               → Cloud
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatparate03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatparate03&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatparate03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=akshatparate03&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatparate03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatparate03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
@@ -192,7 +192,7 @@ Cache:    Redis (Upstash)               → Cloud
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshatparate03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshatparate03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
@@ -211,7 +211,7 @@ Cache:    Redis (Upstash)               → Cloud
 ## 🎯 Current Goals for 2026
 
 ```
-🔭  Scale Zonnecto to 1000+ active users
+🛒  Build Cartvix — AI + Virtual Try-On E-Commerce Platform
 🧠  Crack top-tier DSA — 500+ LeetCode problems  
 🤖  Ship a production LLM-powered app
 🌐  Contribute to a major open-source project
