@@ -173,20 +173,6 @@ Cache:    Redis (Upstash)               → Cloud
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatparate03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=akshatparate03&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatparate03&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=86400" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=akshatparate03&theme=discord&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
