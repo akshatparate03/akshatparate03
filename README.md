@@ -182,17 +182,8 @@ Cache:    Redis (Upstash)               → Cloud
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatparate03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshatparate03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatparate03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=akshatparate03&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
 </div>
 
